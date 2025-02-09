@@ -1,5 +1,5 @@
 ---
-title: "Andy A. Shen"
+title: "Andy Shen"
 image: andy.jpg
 subtitle: "Statistics PhD Student at UC Berkeley"
 about:
