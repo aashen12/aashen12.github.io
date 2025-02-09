@@ -6,17 +6,17 @@ A full publication list can be found on [Google Scholar](<https://scholar.google
 
 ## Causal Inference
 
-**Shen A.A.,** Visoki E, Barzilay R, and Pimentel S.D. (2025). A Calibrated Sensitivity Analysis for Weighted Causal Decompositions. *Statistics in Medicine*, 44: e70010. [DOI](https://doi.org/10.1002/sim.70010)
+**Shen, A.,** Visoki, E., Barzilay, R., and Pimentel, S.D. (2025). A Calibrated Sensitivity Analysis for Weighted Causal Decompositions. *Statistics in Medicine*, 44: e70010. [DOI](https://doi.org/10.1002/sim.70010)
 
 ## Statistical Applications
 
-**Shen A.A.,** McLoughlin A, Vernon Z, Lin J, Carano R, Bickel P, Song Z, and Huang H. (2025+). Assessing the Role of Volumetric Brain Information in Multiple Sclerosis Progression. **Working paper.** [https://arxiv.org/abs/2412.09497.](https://arxiv.org/abs/2412.09497)
+**Shen, A.,** McLoughlin, A., Vernon, Z., Lin, J., Carano, R., Bickel, P., Song, Z., and Huang, H. (2025+). Assessing the Role of Volumetric Brain Information in Multiple Sclerosis Progression. **Working paper.** [https://arxiv.org/abs/2412.09497.](https://arxiv.org/abs/2412.09497)
 
-Li S, Ruan Z, **Shen A.A.,** Jayapurna I, Xu T, and Huang H. (2022). DeepRHP: A Hybrid Variational Autoencoder for Designing Random Heteropolymers as Protein Mimics. *AAAI Workshop on AI to Accelerate Science and Engineering*. [PDF](https://ai-2-ase.github.io/papers/25%5CSubmission%5CdeepRHP_camera_ready.pdf).
+Li, S., Ruan, Z., **Shen, A.,** Jayapurna, I., Xu, T., and Huang, H. (2022). DeepRHP: A Hybrid Variational Autoencoder for Designing Random Heteropolymers as Protein Mimics. *AAAI Workshop on AI to Accelerate Science and Engineering*. [PDF](https://ai-2-ase.github.io/papers/25%5CSubmission%5CdeepRHP_camera_ready.pdf).
 
-Lee S, **Shen A.A.,** et al, and Schoenberg F. (2021). Comparison of prospective Hawkes and recursive point process models for Ebola in DRC. *Journal of Forecasting* 41 (1), 201-210. [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2803)
+Lee, S., **Shen, A.,** Park, J., Harrigan, R., Hoff, N., Rimoin, A., and Schoenberg, F. (2021). Comparison of prospective Hawkes and recursive point process models for Ebola in DRC. *Journal of Forecasting* 41 (1), 201-210. [DOI](https://onlinelibrary.wiley.com/doi/abs/10.1002/for.2803)
 
 ## Statistics Theory
 
-Rumsey K, Francom D, and **Shen A.A.** (2024). Generalized Bayesian MARS: Tools for Stochastic Computer Model Emulation. *SIAM/ASA Journal on Uncertainty Quantification* 12 (2), 646-666. [DOI](https://epubs.siam.org/doi/10.1137/21M1420737)
+Rumsey, K., Francom, D., and **Shen A.** (2024). Generalized Bayesian MARS: Tools for Stochastic Computer Model Emulation. *SIAM/ASA Journal on Uncertainty Quantification* 12 (2), 646-666. [DOI](https://epubs.siam.org/doi/10.1137/21M1420737)
 
