@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Andy Shen"
+  navbar:
+    background: "#2774AE"
+    title: "Andy Shen"
+    right:
+      - href: index.qmd
+        text: Home
+
+      - text: "Publications"
+        href: publications/index.qmd
+
+      - text: "Teaching"
+        href: teaching/index.qmd
+        
+      - text: "CV"
+        href: andy_shen_resume.pdf
+
+page-footer:
+    left: "&copy; Copyright 2025, Andy Shen"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
