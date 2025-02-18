@@ -18,5 +18,5 @@ Lee, S., **Shen, A.,** Park, J., Harrigan, R., Hoff, N., Rimoin, A., and Schoenb
 
 ## Statistics Theory
 
-Rumsey, K., Francom, D., and **Shen A.** (2024). Generalized Bayesian MARS: Tools for Stochastic Computer Model Emulation. *SIAM/ASA Journal on Uncertainty Quantification* 12(2), 646-666. [DOI](https://epubs.siam.org/doi/10.1137/23M1577122)
+Rumsey, K., Francom, D., and **Shen, A.** (2024). Generalized Bayesian MARS: Tools for Stochastic Computer Model Emulation. *SIAM/ASA Journal on Uncertainty Quantification* 12(2), 646-666. [DOI](https://epubs.siam.org/doi/10.1137/23M1577122)
 
