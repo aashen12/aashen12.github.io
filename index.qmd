@@ -34,7 +34,7 @@ Feel free to connect with me via email or [LinkedIn](https://www.linkedin.com/in
 
 # Recent News
 
--   **February 2025:** Our paper on sensitivity analysis for causal decompositions is published in *Statistics in Medicine!*
+-   **February 2025:** Our paper on sensitivity analysis for causal decompositions is [published](https://onlinelibrary.wiley.com/doi/10.1002/sim.70010) in *Statistics in Medicine!*
 
 -   **January 2025:** Our paper on sensitivity analysis for causal decompositions received student paper awards for the 2025 International Conference on Health Policy Statistics and the [2025 Joint Statistical Meetings](https://community.amstat.org/mhs/awards/studentpapercompetition).
 
