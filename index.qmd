@@ -21,9 +21,9 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a fourth-year PhD Candidate in Statistics at UC Berkeley. I am advised by [Haiyan Huang](https://statistics.berkeley.edu/people/haiyan-huang) and [Sam Pimentel](https://statistics.berkeley.edu/people/sam-pimentel). I graduated from UCLA in June 2021 with my B.S. in Statistics.
+I am a fourth-year PhD Candidate in Statistics at UC Berkeley. I am advised by [Haiyan Huang](https://statistics.berkeley.edu/people/haiyan-huang) and [Sam Pimentel](https://statistics.berkeley.edu/people/sam-pimentel), and I also work with [Avi Feller](https://statistics.berkeley.edu/people/avi-feller). I graduated from UCLA in June 2021 with my B.S. in Statistics.
 
-My research is motivated by causal inference problems in health policy and medicine. I am interested in developing methods to help scientists make robust and transparent causal claims. I am also interested in solving data-driven problems using a combination of causal inference, machine learning, and survival analysis.
+My research is motivated by causal inference problems in health policy and medicine. I am interested in developing methods to help scientists make robust and transparent causal claims. I am also interested in solving data-driven problems using causal inference, machine learning, and survival analysis.
 
 Most of my work is collaborative. I am grateful to be working alongside scientists and clinicians from Genentech, Kaiser Permanente, and the University of Pennsylvania School of Medicine. My research is supported by the NSF Graduate Research Fellowship.
 
@@ -34,8 +34,9 @@ Feel free to connect with me via email or [LinkedIn](https://www.linkedin.com/in
 
 # Recent News
 
+-   **May 2025:** Our [paper](https://arxiv.org/abs/2412.09497) on analyzing multiple sclerosis progression with volumetric MRI has been accepted in *Computational and Structural Biotechnology Journal!*
+
 -   **February 2025:** Our paper on sensitivity analysis for causal decompositions is [published](https://onlinelibrary.wiley.com/doi/10.1002/sim.70010) in *Statistics in Medicine!*
 
 -   **January 2025:** Our paper on sensitivity analysis for causal decompositions received student paper awards for the 2025 International Conference on Health Policy Statistics and the [2025 Joint Statistical Meetings](https://community.amstat.org/mhs/awards/studentpapercompetition).
 
--   **December 2024:** Our paper on analyzing multiple sclerosis progression with volumetric MRI is now available on [arXiv](https://arxiv.org/abs/2412.09497).
