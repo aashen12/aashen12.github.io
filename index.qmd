@@ -21,22 +21,29 @@ about:
 ---
 
 ::: {#hero-heading}
-I am a fourth-year PhD Candidate in Statistics at UC Berkeley. I am advised by [Haiyan Huang](https://statistics.berkeley.edu/people/haiyan-huang) and [Sam Pimentel](https://statistics.berkeley.edu/people/sam-pimentel), and I also work with [Avi Feller](https://statistics.berkeley.edu/people/avi-feller). I graduated from UCLA in June 2021 with my B.S. in Statistics.
+I am a fifth and final year PhD Candidate in Statistics at UC Berkeley. I am advised by [Haiyan Huang](https://statistics.berkeley.edu/people/haiyan-huang) and [Sam Pimentel](https://statistics.berkeley.edu/people/sam-pimentel), and I also work with [Avi Feller](https://statistics.berkeley.edu/people/avi-feller). I graduated from UCLA in 2021 with my B.S. in Statistics.
 
-My research is motivated by causal inference problems in health policy and medicine. I am interested in developing methods to help scientists make robust and transparent causal claims. I am also interested in solving data-driven problems using causal inference, machine learning, and survival analysis.
+My research is motivated by causal inference problems in health policy and medicine. I am interested in developing methods to help scientists make robust and transparent causal claims. I am also interested in solving data-driven problems using causal inference, machine learning, and survival analysis. My research is supported by the NSF Graduate Research Fellowship. 
 
-Most of my work is collaborative. I am grateful to be working alongside scientists and clinicians from Genentech, Kaiser Permanente, and the University of Pennsylvania School of Medicine. My research is supported by the NSF Graduate Research Fellowship.
+<!-- Most of my work is collaborative. I am grateful to be working alongside scientists and clinicians from Genentech, Kaiser Permanente, and the University of Pennsylvania School of Medicine.  -->
 
-I have spent many summers as a statistics intern at Los Alamos National Laboratory and most recently completed a biostatistics internship at Denali Therapeutics in summer 2023. **I will join Genentech as a data science intern in summer 2025.**
+<!-- I have spent many summers as a statistics intern at Los Alamos National Laboratory and most recently completed a biostatistics internship at Denali Therapeutics in summer 2023. **I will join Genentech as a data science intern in summer 2025.** -->
 
-Feel free to connect with me via email or [LinkedIn](https://www.linkedin.com/in/shen-andy/).
+**I am seeking full-time roles starting in mid to late 2026.** Please feel free to connect with me via email or [LinkedIn](https://www.linkedin.com/in/shen-andy/).
 :::
 
 # Recent News
 
--   **May 2025:** Our [paper](https://arxiv.org/abs/2412.09497) on analyzing multiple sclerosis progression with volumetric MRI has been accepted in *Computational and Structural Biotechnology Journal!*
+-   **May 2025:** I started my internship at Genentech in the Product Development Data Sciences group.
+
+-   **May 2025:** Our [paper](https://www.sciencedirect.com/science/article/pii/S2001037025001667?via%3Dihub) on analyzing multiple sclerosis progression with volumetric MRI has been accepted in *Computational and Structural Biotechnology Journal!*
 
 -   **February 2025:** Our paper on sensitivity analysis for causal decompositions is [published](https://onlinelibrary.wiley.com/doi/10.1002/sim.70010) in *Statistics in Medicine!*
 
 -   **January 2025:** Our paper on sensitivity analysis for causal decompositions received student paper awards for the 2025 International Conference on Health Policy Statistics and the [2025 Joint Statistical Meetings](https://community.amstat.org/mhs/awards/studentpapercompetition).
+
+```{=html}
+<script src="https://cdn.counter.dev/script.js" data-id="fdcc1b2d-f51b-4eee-9400-5bac1da14f97" data-utcoffset="-7"></script>
+```
+
 
