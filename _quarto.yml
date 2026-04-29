@@ -18,8 +18,6 @@ website:
       - text: "Teaching"
         href: teaching/index.qmd
         
-      - text: "CV"
-        href: andy_shen_resume.pdf
 
 page-footer:
     left: "&copy; Copyright 2025, Andy Shen"

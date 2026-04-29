@@ -2,9 +2,11 @@
 title: "Publications"
 ---
 
-A full publication list can be found on [Google Scholar](<https://scholar.google.com/citations?user=5GYeqKgAAAAJ&hl=en>).
+A full publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=5GYeqKgAAAAJ&hl=en).
 
 ## Statistical Methodology
+
+**Shen, A.,** Ben-Michael, E., Feller, A., Keele, L., and Murray, J. (2025+). Forest Kernel Balancing Weights: Outcome-Guided Features for Causal Inference. *arXiv preprint arXiv:2512.11751*. [arXiv](https://arxiv.org/abs/2512.11751)
 
 **Shen, A.,** Visoki, E., Barzilay, R., and Pimentel, S.D. (2025). A Calibrated Sensitivity Analysis for Weighted Causal Decompositions. *Statistics in Medicine*, 44(5): e70010. [DOI](https://doi.org/10.1002/sim.70010)
 
@@ -20,6 +22,4 @@ Lee, S., **Shen, A.,** Park, J., Harrigan, R., Hoff, N., Rimoin, A., and Schoenb
 
 Rumsey, K., Francom, D., and **Shen, A.** (2024). Generalized Bayesian MARS: Tools for Stochastic Computer Model Emulation. *SIAM/ASA Journal on Uncertainty Quantification* 12(2), 646-666. [DOI](https://epubs.siam.org/doi/10.1137/23M1577122)
 
-
 \* denotes equal contribution
-
