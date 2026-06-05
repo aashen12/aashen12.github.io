@@ -28,7 +28,7 @@ My research was motivated by causal inference problems in health policy and medi
 
 # Recent News
 
--   **June 2026:** Our new paper, [*Leveraging External Controls for Treatment Switching in Randomized Controlled Trials: A Weighted Causal Inference Framework for Overall Survival*](https://arxiv.org/abs/2606.06441), is now on arXiv! We propose a causal inference framework that incorporates external control data to correct for treatment switching bias in oncology RCTs, with applications to two phase III trials.
+-   **June 2026:** Our [paper](https://arxiv.org/abs/2606.06441) on leveraging external controls to account for treatment switching in oncology RCTs is now on arXiv!
 
 -   **April 2026:** I have completed my PhD in Statistics at UC Berkeley and joined Genentech as a Statistician.
 
