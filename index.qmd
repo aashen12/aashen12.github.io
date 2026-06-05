@@ -1,7 +1,7 @@
 ---
 title: "Andy Shen"
 image: andy.jpg
-subtitle: "Statistician at Genentech"
+subtitle: ""
 about:
   id: hero-heading
   template: trestles
@@ -21,14 +21,14 @@ about:
 ---
 
 ::: {#hero-heading}
-**As of April 2026, I am a Statistician at Genentech in the Product Development Data Sciences group.**
-
-I completed my PhD in Statistics at UC Berkeley in 2026, where I was advised by [Haiyan Huang](https://statistics.berkeley.edu/people/haiyan-huang), [Sam Pimentel](https://statistics.berkeley.edu/people/sam-pimentel), and [Avi Feller](https://statistics.berkeley.edu/people/avi-feller). I received my B.S. in Statistics from UCLA in 2021.
+**As of April 2026, I am a Statistician at Genentech.** I completed my PhD in Statistics at UC Berkeley in 2026, where I was advised by [Haiyan Huang](https://statistics.berkeley.edu/people/haiyan-huang), [Sam Pimentel](https://statistics.berkeley.edu/people/sam-pimentel), and [Avi Feller](https://statistics.berkeley.edu/people/avi-feller). I received my B.S. in Statistics from UCLA in 2021.
 
 My research was motivated by causal inference problems in health policy and medicine, with a focus on developing methods for robust and transparent causal inference. I continue to be actively engaged in research at the intersection of causal inference, machine learning, and survival analysis. My doctoral work was supported by the NSF Graduate Research Fellowship.
 :::
 
 # Recent News
+
+-   **June 2026:** Our new paper, [*Leveraging External Controls for Treatment Switching in Randomized Controlled Trials: A Weighted Causal Inference Framework for Overall Survival*](https://arxiv.org/abs/2606.06441), is now on arXiv! We propose a causal inference framework that incorporates external control data to correct for treatment switching bias in oncology RCTs, with applications to two phase III trials.
 
 -   **April 2026:** I have completed my PhD in Statistics at UC Berkeley and joined Genentech as a Statistician.
 
