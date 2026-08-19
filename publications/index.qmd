@@ -6,7 +6,9 @@ A full publication list can be found on [Google Scholar](https://scholar.google.
 
 ## Statistical Methodology
 
-**Shen, A.,** Ben-Michael, E., Feller, A., Keele, L., and Murray, J. (2025+). Forest Kernel Balancing Weights: Outcome-Guided Features for Causal Inference. *arXiv preprint arXiv:2512.11751*. [arXiv](https://arxiv.org/abs/2512.11751)
+**Shen, A.,** Ben-Michael, E., Feller, A., Keele, L., and Murray, J. (2026+). Forest Kernel Balancing Weights: Outcome-Guided Features for Causal Inference. *Statistics in Medicine*, forthcoming. [arXiv](https://arxiv.org/abs/2512.11751)
+
+**Shen, A.,** Fu, C., and Lin, R. (2026+). Leveraging External Controls for Treatment Switching in Randomized Controlled Trials: A Weighted Causal Inference Framework for Overall Survival. *arXiv preprint arXiv:2606.06441*. [arXiv](https://arxiv.org/abs/2606.06441)
 
 **Shen, A.,** Visoki, E., Barzilay, R., and Pimentel, S.D. (2025). A Calibrated Sensitivity Analysis for Weighted Causal Decompositions. *Statistics in Medicine*, 44(5): e70010. [DOI](https://doi.org/10.1002/sim.70010)
 

@@ -28,6 +28,8 @@ My research was motivated by causal inference problems in health policy and medi
 
 # Recent News
 
+-   **August 2026:** Our [paper](https://arxiv.org/abs/2512.11751) on using tree-ensembles to estimate better weights for causal inference has been accepted in *Statistics in Medicine!*
+
 -   **June 2026:** Our [paper](https://arxiv.org/abs/2606.06441) on leveraging external controls to account for treatment switching in oncology RCTs is now on arXiv!
 
 -   **April 2026:** I have completed my PhD in Statistics at UC Berkeley and joined Genentech as a Statistician.
